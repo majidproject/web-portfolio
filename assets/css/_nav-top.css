@@ -1,0 +1,104 @@
+.top-nav1 {
+    height: 100%;
+}
+
+.bg-top-nav1 {
+    background-color: #232f3e;
+}
+
+.custom-top-nav1,
+.bg-top-nav1 p {
+    font-size: 14px;
+}
+
+.custom-top-nav1 a {
+    padding: 10px;
+}
+
+.custom-top-nav1 .border-end {
+    border-color: #4a4a4a !important;
+}
+
+.custom-btn-font-size {
+    font-size: 14px;
+}
+
+.custom-btn-left {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    font-size: 14px;
+    padding: 10px 16px;
+    /* تنظیم پدینگ برای حفظ اندازه */
+    line-height: normal;
+    /* تنظیم خط برای جلوگیری از تغییر اندازه باکس */
+}
+
+.custom-top-nav2 {
+    margin-top: 20px;
+}
+
+.custom-basket {
+    margin-top: 3px;
+}
+
+.shop {
+        background-color: transparent;
+}
+
+.shop i {
+    vertical-align: -2px;
+}
+
+.custom-dropdown-toggle::after {
+    vertical-align: 0;
+}
+
+.basket {
+    width: 300px;
+}
+
+.basket li a img {
+    height: 64px;
+    width: 64px;
+}
+
+.custom-basket-ul {
+    width: 200px;
+}
+
+.custom-navbar-nav .nav-item {
+    position: unset;
+}
+
+.custom-navbar-nav .nav-item .dropdown-menu {
+    color: #fff;
+    border-radius: 0;
+    top: 67px;
+}
+
+.dropdown-image img{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.custom-dropdown-item i {
+    vertical-align: -2px;
+}
+
+.custom-dropdown-item:hover {
+    margin-right: 7px;
+    /* background-color: rgb(218, 217, 217) ; */
+    /* transition: background-color 2s ease; */
+    transition: .5s ease;
+}
+
+.custom-navbar-toggler {
+    position: absolute;
+    left: 0;
+    margin-left: 112px;
+}
+
+.top-nav2-input::-webkit-input-placeholder {
+    font-size: 12px;
+}

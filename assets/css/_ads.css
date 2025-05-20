@@ -1,0 +1,10 @@
+.custom-ads {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 16 / 10;
+    /* نسبت تصویر زیبا و استاندارد */
+    margin: 40px auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}

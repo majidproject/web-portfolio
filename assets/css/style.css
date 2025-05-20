@@ -1,0 +1,23 @@
+@import url(./reset.css);
+@import url(./_nav-top.css);
+@import url(./_slider.css);
+@import url(./_shipping.css);
+@import url(./_ads.css);
+@import url(./_category.css);
+@import url(./_especial-offer.css);
+@import url(./owl.carousel.css);
+@import url(./owl.theme.default.min.css);
+@import url(./_owl.css);
+@import url(./_banner.css);
+@import url(./_banner-slider.css);
+@import url(./_footer.css);
+@import url(./_login-form.css);
+@import url(./_product.css);
+@import url(./_breadcrumb.css);
+
+
+
+body {
+    font-family: 'Vazir FD', sans-serif;
+    background-color:#f8f9fa;
+  }
